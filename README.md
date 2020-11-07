@@ -11,6 +11,29 @@ You can find me in my social networks
 |
 [<img src="https://raw.githubusercontent.com/ffsfranciscosilva/ffsfranciscosilva/main/icons/instagram.png" width="40px" style="padding: 0 0 0 8px">](https://www.instagram.com/ffsfranciscosilva)
 
+## 🔧 Main Technologies
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Netbeans_IDE-informational?style=flat&logo=apache-netbeans-ide&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Type_Script-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+
 ## &#x1f4c8; My Stats
 
 <a href="https://github.com/ffsfranciscosilva">
