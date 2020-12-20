@@ -7,9 +7,9 @@ You can find me in my social networks
 
 [<img src="https://raw.githubusercontent.com/ffsfranciscosilva/ffsfranciscosilva/main/icons/linkedin.png" width="40px" style="padding: 0 8px 0 0">](https://www.linkedin.com/in/ffsfranciscosilva)
 |
-[<img src="https://raw.githubusercontent.com/ffsfranciscosilva/ffsfranciscosilva/main/icons/facebook.png" width="40px" style="padding: 0 8px 0 8px">](https://www.facebook.com/ffsfranciscosilva)
-|
 [<img src="https://raw.githubusercontent.com/ffsfranciscosilva/ffsfranciscosilva/main/icons/instagram.png" width="40px" style="padding: 0 0 0 8px">](https://www.instagram.com/ffsfranciscosilva)
+|
+[<img src="https://raw.githubusercontent.com/ffsfranciscosilva/ffsfranciscosilva/main/icons/facebook.png" width="40px" style="padding: 0 8px 0 8px">](https://www.facebook.com/ffsfranciscosilva)
 
 ## 🔧 Main Technologies
 
