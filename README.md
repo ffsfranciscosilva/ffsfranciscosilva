@@ -37,7 +37,7 @@ You can find me in my social networks
 ## &#x1f4c8; My Stats
 
 <a href="https://github.com/ffsfranciscosilva">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffsfranciscosilva&layout=compact&theme=vue-dark&count_private=true&custom_title=Languages" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffsfranciscosilva&theme=vue-dark&count_private=true&custom_title=Languages" align="center">
 </a>
 <a href="https://github.com/ffsfranciscosilva">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ffsfranciscosilva&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true&hide=prs,contribs&custom_title=Stats" align="center" >
