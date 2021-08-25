@@ -1,6 +1,6 @@
 # Hi guys! <img src="https://raw.githubusercontent.com/ffsfranciscosilva/ffsfranciscosilva/main/gifs/wave.gif" width="30px"> <img src="https://raw.githubusercontent.com/ffsfranciscosilva/ffsfranciscosilva/main/icons/nerd.png" width="30px">
 
-My name is Francisco Silva and i'm a software engineer <img src="https://raw.githubusercontent.com/ffsfranciscosilva/ffsfranciscosilva/main/icons/java.png" width="20px">. I'm from Brazil, living in Maranhão and currently working at  GFT Group. 
+My name is Francisco Silva and i'm a software engineer <img src="https://raw.githubusercontent.com/ffsfranciscosilva/ffsfranciscosilva/main/icons/java.png" width="20px">. I'm from Brazil, living in Maranhão and currently working at PagSeguro PagBank. 
 
 You can find me in my social networks 
 <img src="https://raw.githubusercontent.com/ffsfranciscosilva/ffsfranciscosilva/main/icons/network.png" width="25px" style="padding: 0 0 0 8px">
