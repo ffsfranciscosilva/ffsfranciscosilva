@@ -3,7 +3,7 @@
 My name is Francisco Silva and i'm a software engineer <img src="https://raw.githubusercontent.com/ffsfranciscosilva/ffsfranciscosilva/main/icons/java.png" width="20px">. I'm from Brazil, living in Maranhão and currently working at PagSeguro PagBank. 
 
 You can find me in my social networks 
-<img src="https://raw.githubusercontent.com/ffsfranciscosilva/ffsfranciscosilva/main/icons/network.png" width="25px" style="padding: 0 0 0 8px">
+<img src="https://raw.githubusercontent.com/ffsfranciscosilva/ffsfranciscosilva/main/icons/network.png" width="25px" style="padding: 0 0 0 8px;width:25px">
 
 [<img src="https://raw.githubusercontent.com/ffsfranciscosilva/ffsfranciscosilva/main/icons/linkedin.png" width="40px" style="padding: 0 8px 0 0">](https://www.linkedin.com/in/ffsfranciscosilva)
 |
